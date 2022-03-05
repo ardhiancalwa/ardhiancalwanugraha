@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **anything**
 
-- 👨‍💻 All of my projects are available at **https://github.com/ardhiancalwa**
-
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: **I am shy**
