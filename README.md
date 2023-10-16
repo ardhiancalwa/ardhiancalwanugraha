@@ -5,11 +5,11 @@
 <details>
  <summary><strong>What i am learning on these days</strong></summary>
  
-- 🔭 I’m currently studying on [SMK Telkom Malang](https://smktelkom-mlg.sch.id/)
+- 🔭 I’m currently studying on [Telkom University]([https://smktelkom-mlg.sch.id/](https://telkomuniversity.ac.id/))
 
 - 📫 How to reach me **ardhiancalwa@gmail.com**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **anything**
 
