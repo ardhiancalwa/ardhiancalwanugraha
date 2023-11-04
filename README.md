@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardhian Calwa Nugraha</h1>
-<a href="https://youtu.be/pwTzHbIXSlI"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="[https://youtu.be/pwTzHbIXSlI](https://www.linkedin.com/in/ardhiancalwa/)"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardhiancalwa&label=Profile%20views&color=0e75b6&style=flat" alt="ardhiancalwa" /> </p>
 <details>
