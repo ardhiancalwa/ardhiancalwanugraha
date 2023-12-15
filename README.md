@@ -7,9 +7,9 @@
  
 - 🔭 I’m currently studying on [Telkom University]([https://smktelkom-mlg.sch.id/](https://telkomuniversity.ac.id/))
 
-- 📫 How to reach me **ardhiancalwa@gmail.com**
+- 📫 How to reach me **ardhiancalwaofc@gmail.com**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Web and Mobile Development**
 
 - 💬 Ask me about **anything**
 
