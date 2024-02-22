@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ardhian Calwa Nugraha and I'm a Computer Science, from Telkom University.</p>
+<p align="left">My name is Ardhian Calwa Nugraha and I'm a Student Computer Science, from Telkom University.</p>
 
 ###
 
