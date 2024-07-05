@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw0MHFyd3JodXd0ZW1kZHlpbjhrNjRqNGFlZXpiZHBsMXR4cGFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pCJcExvbKdSeyyv8zP/giphy.gif"  />
+
+###
+
 <h2 align="left">🕹️ Tech Stack</h2>
 
 ###
@@ -29,10 +33,6 @@
 ###
 
 <h4 align="left">You can connect with</h4>
-
-###
-
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw0MHFyd3JodXd0ZW1kZHlpbjhrNjRqNGFlZXpiZHBsMXR4cGFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pCJcExvbKdSeyyv8zP/giphy.gif"  />
 
 ###
 
@@ -68,9 +68,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=oizl2uklk2t9z26fi8sjpw8mj&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ardhiancalwa/ardhiancalwa/output/snake.svg" alt="Snake animation" />
 
 ###
