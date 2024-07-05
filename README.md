@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw0MHFyd3JodXd0ZW1kZHlpbjhrNjRqNGFlZXpiZHBsMXR4cGFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pCJcExvbKdSeyyv8zP/giphy.gif"  />
-
-###
-
 <h2 align="left">🕹️ Tech Stack</h2>
 
 ###
@@ -29,6 +25,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw0MHFyd3JodXd0ZW1kZHlpbjhrNjRqNGFlZXpiZHBsMXR4cGFhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pCJcExvbKdSeyyv8zP/giphy.gif"  />
 
 ###
 
