@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardhiancalwa&label=Profile%20views&color=0e75b6&style=flat" alt="ardhiancalwa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardhiancalwa" alt="ardhiancalwa" /></a> </p>
-
 - 🔭 I’m currently studying at **Telkom University**
 
 - 🌱 I’m currently learning **Flutter and Dart, focusing on enhancing my mobile development skills.**
